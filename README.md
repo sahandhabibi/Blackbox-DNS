@@ -79,5 +79,5 @@ Useful Links
 Prometheus Blackbox Exporter Helm Chart
 https://github.com/helm/charts/tree/master/stable/prometheus-blackbox-exporter
 
-Iran Public DNS Servers list 
+Public DNS Server List
 https://public-dns.info/nameserver/ir.html
