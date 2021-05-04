@@ -1,6 +1,6 @@
 # Example of BlackBox Exporter Config - DNS Module 
 
-![plot](./Dashboard.png)
+![plot](./Dashboard.jpg)
 
 blackbox.conf 
 
